@@ -94,14 +94,14 @@ class KnowledgeRetriever:
                     ]
                 )
 
-            # Search Qdrant
-            results = self.client.search(
+            # Search Qdrant using query_points API
+            results = self.client.query_points(
                 collection_name=self.collection_name,
-                query_vector=query_vector,
+                query=query_vector,
                 query_filter=query_filter,
                 limit=top_k,
                 score_threshold=score_threshold,
-            )
+            ).points
 
             # Format results
             formatted = []
