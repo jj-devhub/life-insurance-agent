@@ -1,0 +1,101 @@
+# Knowledge Base Entry: General FAQ
+# git commit: feat(kb): add general FAQ knowledge
+# Module: knowledge-base/faq
+# Last Updated: 2025-01-15
+
+category: "faq"
+topic: "General Life Insurance FAQ"
+keywords:
+  - "what is life insurance"
+  - "do I need life insurance"
+  - "how does life insurance work"
+  - "who needs life insurance"
+  - "how much life insurance"
+  - "when to buy"
+  - "frequently asked questions"
+  - "basics"
+
+summary: |
+  Answers to the most frequently asked general questions about life insurance
+  in the United States, covering basics, who needs it, how much to buy,
+  and when to buy.
+
+details:
+  faqs:
+    - question: "What is life insurance?"
+      answer: |
+        Life insurance is a contract between a policyholder and an insurance
+        company. The policyholder pays premiums, and in exchange, the insurer
+        pays a death benefit to designated beneficiaries upon the insured's
+        death. It provides financial protection for loved ones.
+
+    - question: "Do I need life insurance?"
+      answer: |
+        You likely need life insurance if anyone depends on your income or
+        financial support. This includes: parents with minor children, married
+        couples where one spouse earns more, anyone with co-signed debts,
+        business owners/partners, or anyone who wants to leave a financial
+        legacy. Single people with no dependents may not need it.
+
+    - question: "How much life insurance do I need?"
+      answer: |
+        A common rule of thumb is 10–15 times your annual income. The DIME
+        method provides a more accurate estimate: Debt + Income replacement
+        (multiply annual income by years needed) + Mortgage balance + Education
+        costs for children. Use an online calculator or consult an agent for
+        a personalized recommendation.
+
+    - question: "When is the best time to buy life insurance?"
+      answer: |
+        The best time is as young and healthy as possible. Premiums are based
+        on age and health — they only go up from here. Key life events that
+        trigger the need: getting married, having a child, buying a home,
+        starting a business, or taking on debt.
+
+    - question: "How long does it take to get life insurance?"
+      answer: |
+        It depends on the type: fully underwritten policies take 4–8 weeks
+        (includes medical exam and records). Accelerated underwriting can
+        take 1–2 weeks. Simplified issue policies take 1–3 days. Guaranteed
+        issue policies can be same-day.
+
+    - question: "Can I have multiple life insurance policies?"
+      answer: |
+        Yes. There is no limit on the number of life insurance policies you
+        can own. Many people have multiple policies (e.g., a term policy for
+        income replacement and a whole life policy for estate planning). Each
+        application is underwritten independently.
+
+    - question: "Can I change my beneficiary?"
+      answer: |
+        Yes, if your beneficiary is revocable (which is the default). You can
+        change beneficiaries at any time by contacting your insurance company
+        and completing a beneficiary change form. Irrevocable beneficiaries
+        require the beneficiary's consent to change.
+
+    - question: "What happens if I stop paying premiums?"
+      answer: |
+        For term life: the policy lapses after a grace period (usually 30–31
+        days). For permanent life: the cash value may be used to keep the
+        policy in force temporarily (automatic premium loan or extended term
+        insurance). You may also choose a reduced paid-up option.
+
+    - question: "Is life insurance worth it?"
+      answer: |
+        If you have financial dependents, life insurance is one of the most
+        cost-effective financial tools available. A healthy 30-year-old can
+        get $500,000 of 20-year term coverage for around $25–$35/month —
+        ensuring their family's financial security for pennies on the dollar.
+
+    - question: "What is the difference between term and whole life insurance?"
+      answer: |
+        Term life covers a specific period (10–30 years) with no cash value —
+        it's pure protection at the lowest cost. Whole life covers your entire
+        lifetime, builds cash value, and has fixed premiums — but costs 5–15x
+        more. Term is best for temporary needs; whole life for permanent needs.
+
+related_topics:
+  - "term_life"
+  - "whole_life"
+  - "death_benefit"
+  - "age_requirements"
