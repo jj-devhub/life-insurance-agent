@@ -1,0 +1,88 @@
+# Knowledge Base Entry: Required Documents for Claims
+# git commit: feat(kb): add required documents for claims
+# Module: knowledge-base/claims
+# Last Updated: 2025-01-15
+
+category: "claims"
+topic: "Required Documents for Life Insurance Claims"
+keywords:
+  - "required documents"
+  - "claim documents"
+  - "what documents"
+  - "paperwork"
+  - "death certificate"
+  - "claim form"
+  - "proof of death"
+
+summary: |
+  Filing a life insurance claim requires specific documentation including a
+  certified death certificate, completed claim form, policy documents, and
+  identification. Having all documents ready speeds up the claims process.
+
+details:
+  definition: |
+    Insurance companies require specific documentation to process a death claim
+    and verify that the beneficiary is entitled to receive the death benefit.
+    Requirements vary slightly between insurers, but a standard set of documents
+    is universally required.
+
+  required_documents:
+    - document: "Certified Death Certificate"
+      required: true
+      description: |
+        An original or certified copy of the death certificate issued by the
+        state vital records office. Must include cause of death, date, and
+        manner of death. Order from the county or state where death occurred.
+      how_to_obtain: "Contact the local vital records office, funeral director, or order online through the state's vital records website."
+
+    - document: "Claimant's Statement / Claim Form"
+      required: true
+      description: |
+        Official form provided by the insurance company. Includes claimant
+        information, insured's details, cause of death, and payment preferences.
+      how_to_obtain: "Request from the insurance company's claims department or download from their website."
+
+    - document: "Original Policy or Policy Number"
+      required: true
+      description: |
+        The original life insurance policy document, or at minimum the policy
+        number. If the policy is lost, the insurer can look it up with the
+        insured's SSN and date of birth.
+      how_to_obtain: "Check the insured's records, safe deposit box, or contact the insurance company."
+
+    - document: "Claimant's Photo ID"
+      required: true
+      description: "Government-issued photo identification of the beneficiary (driver's license, passport, state ID)."
+      how_to_obtain: "Existing government-issued ID."
+
+    - document: "Claimant's Social Security Number"
+      required: true
+      description: "Required for tax reporting purposes (IRS Form 1099). SSN or taxpayer ID of the beneficiary."
+      how_to_obtain: "Beneficiary's existing SSN."
+
+    - document: "Autopsy Report (if applicable)"
+      required: false
+      description: "May be required if the cause of death is unclear, suspicious, or during the contestability period."
+      how_to_obtain: "Request from the medical examiner or coroner's office."
+
+    - document: "Police Report (if applicable)"
+      required: false
+      description: "Required if death was accidental, homicide, or involved suspicious circumstances."
+      how_to_obtain: "Request from the investigating law enforcement agency."
+
+    - document: "Medical Records (if applicable)"
+      required: false
+      description: "May be requested during the contestability period (first 2 years) to verify application accuracy."
+      how_to_obtain: "Request from the insured's healthcare providers."
+
+  tips:
+    - "Order 5–10 certified copies of the death certificate — many institutions require originals"
+    - "Make copies of everything you submit to the insurance company"
+    - "Send documents via certified mail with return receipt, or use the insurer's secure upload portal"
+    - "Keep a log of all communications with the insurance company (dates, names, reference numbers)"
+    - "If you cannot find the policy, use the NAIC Life Insurance Policy Locator Service"
+
+related_topics:
+  - "filing_process"
+  - "claim_status"
+  - "contestability"
