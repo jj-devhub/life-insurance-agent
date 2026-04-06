@@ -1,0 +1,86 @@
+# Knowledge Base Entry: Age Requirements
+# git commit: feat(kb): add age requirements knowledge
+# Module: knowledge-base/eligibility
+# Last Updated: 2025-01-15
+
+category: "eligibility"
+topic: "Age Requirements for Life Insurance"
+keywords:
+  - "age requirements"
+  - "minimum age"
+  - "maximum age"
+  - "too old"
+  - "senior life insurance"
+  - "juvenile life insurance"
+  - "age limit"
+  - "what age"
+
+summary: |
+  Life insurance is available for most ages in the US, from newborns (juvenile
+  policies) to seniors up to age 85+. However, age significantly affects
+  eligibility, available products, and premium costs.
+
+details:
+  definition: |
+    Age is the single most important factor in life insurance underwriting and
+    pricing. Insurance companies assess risk based on mortality tables, and
+    premiums increase with age. Different product types have different age
+    ranges for eligibility.
+
+  age_ranges_by_product:
+    - product: "Term Life Insurance"
+      minimum_age: 18
+      maximum_age: "80 (shorter terms for older applicants; 30-year terms typically max at age 45-50)"
+      notes: "Most cost-effective between ages 20–40. Premiums increase significantly after 50."
+
+    - product: "Whole Life Insurance"
+      minimum_age: "0 (juvenile policies available)"
+      maximum_age: "85"
+      notes: "Juvenile policies (ages 0–17) purchased by parents. Adult policies available 18–85."
+
+    - product: "Universal Life Insurance"
+      minimum_age: 18
+      maximum_age: "80"
+      notes: "GUL available to older applicants. IUL typically max age 70."
+
+    - product: "Variable Life Insurance"
+      minimum_age: 18
+      maximum_age: "75"
+      notes: "Requires suitability analysis. Less common for older applicants."
+
+    - product: "Final Expense / Burial Insurance"
+      minimum_age: 40
+      maximum_age: "85"
+      notes: "Designed for seniors. Smaller face amounts ($5,000–$50,000). Often guaranteed issue."
+
+    - product: "Guaranteed Issue Life Insurance"
+      minimum_age: 40
+      maximum_age: "80"
+      notes: "No medical questions or exam. Higher premiums. Graded death benefit (2–3 year waiting period)."
+
+  age_impact_on_premiums: |
+    Premiums increase approximately 8–10% for each year of age. A policy
+    purchased at age 30 might cost 2–3x less than the same policy at age 50.
+    Locking in coverage at a younger age is one of the most effective ways
+    to save on life insurance costs over a lifetime.
+
+  special_considerations:
+    seniors: |
+      Seniors (65+) have limited options but can still obtain coverage through
+      guaranteed issue policies, simplified issue policies, or final expense
+      insurance. Group coverage through AARP and similar organizations is also
+      available.
+    young_adults: |
+      Young adults (18–30) get the lowest premiums and have the most product
+      options available. Purchasing young locks in health-based rates before
+      any health changes occur.
+    children: |
+      Juvenile whole life policies can be purchased by parents for children
+      ages 0–17. These provide small death benefits but guaranteed future
+      insurability and cash value accumulation.
+
+related_topics:
+  - "health_factors"
+  - "underwriting"
+  - "term_life"
+  - "whole_life"

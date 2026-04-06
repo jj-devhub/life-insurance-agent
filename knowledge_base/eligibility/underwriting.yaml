@@ -1,0 +1,87 @@
+# Knowledge Base Entry: Underwriting Process
+# git commit: feat(kb): add underwriting process knowledge
+# Module: knowledge-base/eligibility
+# Last Updated: 2025-01-15
+
+category: "eligibility"
+topic: "Life Insurance Underwriting Process"
+keywords:
+  - "underwriting"
+  - "underwriting process"
+  - "how long underwriting"
+  - "application process"
+  - "approval process"
+  - "insurance application"
+
+summary: |
+  Underwriting is the process by which insurance companies evaluate an applicant's
+  risk factors to determine eligibility, health classification, and premium rates
+  for a life insurance policy. The process typically takes 4–8 weeks in the US.
+
+details:
+  definition: |
+    Life insurance underwriting is the risk assessment process performed by the
+    insurance company after an application is submitted. An underwriter reviews
+    the applicant's health, lifestyle, financial, and occupational information
+    to decide whether to offer coverage, at what price, and under what conditions.
+
+  underwriting_steps:
+    - step: 1
+      title: "Application Submission"
+      description: "Applicant completes the insurance application with personal, health, financial, and lifestyle information."
+
+    - step: 2
+      title: "Paramedical Exam"
+      description: "A nurse visits the applicant for measurements, blood draw, urine sample, and health questionnaire."
+
+    - step: 3
+      title: "Medical Records (APS)"
+      description: "Underwriter orders Attending Physician Statements from the applicant's doctors. This is often the longest step."
+
+    - step: 4
+      title: "MIB Check"
+      description: "Check the Medical Information Bureau database for any prior insurance application records."
+
+    - step: 5
+      title: "Motor Vehicle Report"
+      description: "Review driving record for DUIs, reckless driving, or excessive violations."
+
+    - step: 6
+      title: "Prescription Database Check"
+      description: "Check pharmacy records for current and past medications."
+
+    - step: 7
+      title: "Financial Underwriting"
+      description: "For large policies, verify income and net worth to ensure coverage amount is justified."
+
+    - step: 8
+      title: "Risk Assessment & Classification"
+      description: "Underwriter evaluates all information and assigns a health classification (Preferred Plus to Substandard)."
+
+    - step: 9
+      title: "Decision"
+      description: "Policy is approved at standard rates, approved with modified rating, or declined."
+
+  timeline: |
+    Traditional underwriting: 4–8 weeks (APS records are the main bottleneck)
+    Accelerated underwriting: 1–2 weeks (uses data analytics, no exam)
+    Simplified issue: 1–3 days (questionnaire only)
+    Guaranteed issue: Same day (no questions)
+
+  underwriting_types:
+    - type: "Full/Traditional Underwriting"
+      description: "Complete medical exam, APS, MIB check. Most thorough and offers best rates."
+
+    - type: "Accelerated Underwriting"
+      description: "Uses algorithms, prescription data, and third-party data to make decisions. No exam for qualifying applicants."
+
+    - type: "Simplified Issue"
+      description: "Health questionnaire only. No exam. Higher premiums. Quick decision."
+
+    - type: "Guaranteed Issue"
+      description: "No medical questions or exam. Acceptance guaranteed. Highest premiums. Graded death benefit."
+
+related_topics:
+  - "health_factors"
+  - "age_requirements"
+  - "health_classifications"

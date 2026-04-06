@@ -1,0 +1,120 @@
+# Knowledge Base Entry: Health Factors
+# git commit: feat(kb): add health factors knowledge
+# Module: knowledge-base/eligibility
+# Last Updated: 2025-01-15
+
+category: "eligibility"
+topic: "Health Factors in Life Insurance Eligibility"
+keywords:
+  - "health requirements"
+  - "medical exam"
+  - "health conditions"
+  - "pre-existing conditions"
+  - "smoking"
+  - "BMI"
+  - "health factors"
+  - "medical underwriting"
+  - "health class"
+  - "preferred plus"
+
+summary: |
+  Health is a major factor in life insurance eligibility and pricing. Insurers
+  evaluate medical history, current health, lifestyle habits, and family history
+  to assign a health classification that determines premium rates.
+
+details:
+  definition: |
+    Life insurance underwriting involves a comprehensive assessment of the
+    applicant's health to determine risk and set appropriate premium rates.
+    The healthier the applicant, the lower the premiums. Applicants are
+    assigned a health classification (rating class) based on their overall
+    health profile.
+
+  health_classifications:
+    - class: "Preferred Plus (Super Preferred)"
+      description: "Excellent health, ideal weight, no tobacco, no family history of early death, excellent lab results."
+      premium_impact: "Lowest premiums available (up to 50% below standard)"
+
+    - class: "Preferred"
+      description: "Very good health, minor health issues only, no tobacco, generally good lab results."
+      premium_impact: "20–30% below standard rates"
+
+    - class: "Standard Plus"
+      description: "Good health with some minor risk factors. No tobacco."
+      premium_impact: "10–15% below standard rates"
+
+    - class: "Standard"
+      description: "Average health. May have some controlled health conditions. No tobacco."
+      premium_impact: "Baseline rate"
+
+    - class: "Standard Smoker"
+      description: "Average health but uses tobacco/nicotine products."
+      premium_impact: "2–3x higher than standard non-smoker"
+
+    - class: "Substandard (Table Rated)"
+      description: "Significant health conditions. Rated with table ratings (Table A/1 through Table P/16)."
+      premium_impact: "25% to 400% above standard rates"
+
+  key_health_factors:
+    - factor: "Tobacco/Nicotine Use"
+      impact: "Most significant single factor. Smokers pay 2–3x more than non-smokers."
+      details: "Includes cigarettes, cigars, chewing tobacco, vaping, nicotine patches. Most insurers require 12+ months tobacco-free for non-smoker rates."
+
+    - factor: "Height/Weight (BMI)"
+      impact: "Significant. Each insurer has build charts with acceptable ranges."
+      details: "BMI over 30 (obese) typically results in standard or substandard ratings. BMI over 40 may result in declines."
+
+    - factor: "Blood Pressure"
+      impact: "Moderate to significant. Well-controlled hypertension can still qualify for preferred."
+      details: "Ideal: below 130/85. Controlled with medication may qualify for standard or standard plus."
+
+    - factor: "Cholesterol"
+      impact: "Moderate. Evaluated as total cholesterol and cholesterol ratio."
+      details: "Total cholesterol under 250 with good ratio is generally acceptable. Controlled with statins is usually okay."
+
+    - factor: "Diabetes"
+      impact: "Significant. Type and control level matter greatly."
+      details: "Type 2, well-controlled (A1C under 7.0) can qualify for standard rates. Type 1 is rated more conservatively."
+
+    - factor: "Cancer History"
+      impact: "Significant. Depends on type, stage, and years since treatment."
+      details: "Early-stage cancers fully treated 5+ years ago may qualify for standard rates. Recent or advanced cancers may be declined or highly rated."
+
+    - factor: "Mental Health"
+      impact: "Low to moderate. Depends on severity and stability."
+      details: "Controlled depression/anxiety with stable medication generally doesn't prevent coverage. Hospitalizations or multiple medications increase rating."
+
+    - factor: "Family History"
+      impact: "Moderate. History of early death from heart disease or cancer in parents/siblings."
+      details: "Heart disease or cancer death in parent or sibling before age 60 may affect classification."
+
+  medical_exam:
+    description: |
+      Most fully underwritten life insurance policies require a paramedical exam,
+      typically conducted at the applicant's home or workplace. The exam is
+      paid for by the insurance company.
+    what_it_includes:
+      - "Height and weight measurement"
+      - "Blood pressure reading"
+      - "Blood sample (glucose, cholesterol, liver/kidney function, HIV, nicotine)"
+      - "Urine sample (drugs, nicotine, glucose, protein)"
+      - "Medical history questionnaire"
+      - "Sometimes an EKG (for older applicants or large policies)"
+    tips:
+      - "Fast for 8–12 hours before the exam for best blood results"
+      - "Avoid alcohol for 24 hours before"
+      - "Avoid strenuous exercise for 24 hours before"
+      - "Drink plenty of water"
+      - "Schedule for morning for best results"
+
+  no_exam_options: |
+    Several options exist for those who prefer to avoid a medical exam:
+    - Accelerated underwriting: Uses data analytics instead of exam (for healthy applicants)
+    - Simplified issue: Health questionnaire only, no exam, higher premiums
+    - Guaranteed issue: No questions, no exam, highest premiums, graded death benefit
+
+related_topics:
+  - "age_requirements"
+  - "underwriting"
+  - "term_life"
+  - "smoking"
