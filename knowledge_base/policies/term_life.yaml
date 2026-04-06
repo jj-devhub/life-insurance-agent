@@ -1,0 +1,112 @@
+# Knowledge Base Entry: Term Life Insurance
+# git commit: feat(kb): add term life insurance knowledge
+# Module: knowledge-base/policies
+# Last Updated: 2025-01-15
+
+category: "policy_types"
+topic: "Term Life Insurance"
+keywords:
+  - "term life"
+  - "term life insurance"
+  - "temporary coverage"
+  - "affordable life insurance"
+  - "level term"
+  - "term policy"
+  - "renewable term"
+  - "convertible term"
+
+summary: |
+  Term life insurance provides coverage for a specific period (term),
+  typically 10, 20, or 30 years. It pays a death benefit to beneficiaries
+  if the insured dies during the term. It is the most affordable type of
+  life insurance and is widely used in the United States.
+
+details:
+  definition: |
+    Term life insurance is a type of life insurance policy that provides
+    coverage for a specified period of time, known as the "term." If the
+    insured person passes away during the term, the insurance company pays
+    a death benefit to the designated beneficiaries. If the term expires
+    and the insured is still alive, the coverage ends with no payout unless
+    the policy is renewed or converted.
+
+  key_features:
+    - "Coverage for a fixed period: commonly 10, 15, 20, 25, or 30 years"
+    - "Level premiums: payments stay the same throughout the term"
+    - "No cash value accumulation — purely protection-focused"
+    - "Death benefit is paid tax-free to beneficiaries"
+    - "Convertible: many policies can be converted to permanent insurance without a medical exam"
+    - "Renewable: some policies can be renewed at the end of the term (at higher premiums)"
+
+  types:
+    - name: "Level Term"
+      description: "Death benefit and premiums remain constant throughout the entire term."
+    - name: "Decreasing Term"
+      description: "Death benefit decreases over the term period; often used with mortgages."
+    - name: "Annual Renewable Term (ART)"
+      description: "One-year term that renews each year; premiums increase annually with age."
+    - name: "Return of Premium (ROP) Term"
+      description: "Refunds all paid premiums if the insured outlives the term. Higher premiums."
+
+  eligibility:
+    age_range: "18–80 (most carriers issue up to age 65–70 for 20–30 year terms)"
+    health_requirements: |
+      Most term policies require a medical exam (blood test, urine sample, health questionnaire).
+      Some 'no-exam' or 'simplified issue' term policies are available at higher premiums.
+    factors:
+      - "Age at application (younger = lower premiums)"
+      - "Health history and current health conditions"
+      - "Smoking/tobacco status (smokers pay 2–3x higher premiums)"
+      - "Family medical history"
+      - "Occupation and hobbies (dangerous jobs/hobbies increase premiums)"
+      - "Driving record"
+      - "Height/weight ratio (BMI)"
+
+  typical_coverage_amounts: "$100,000 – $10,000,000+"
+  typical_premium_range: |
+    $15–$50/month for a healthy 30-year-old, $500,000, 20-year term.
+    Premiums vary significantly based on age, health, and coverage amount.
+
+  advantages:
+    - "Most affordable life insurance option — lowest premiums per dollar of coverage"
+    - "Simple and easy to understand — no investment component"
+    - "Ideal for temporary needs: mortgage protection, income replacement while children are young"
+    - "Can be converted to permanent coverage if needs change"
+    - "High coverage amounts available at low cost"
+
+  disadvantages:
+    - "No cash value accumulation"
+    - "Coverage expires at end of term — you can outlive the policy"
+    - "Renewal premiums increase dramatically (based on attained age)"
+    - "No return of premiums paid (unless ROP rider is added)"
+    - "May become uninsurable if health changes during the term"
+
+  common_riders:
+    - name: "Return of Premium (ROP)"
+      description: "All premiums are refunded if the policyholder outlives the term."
+    - name: "Waiver of Premium"
+      description: "Premiums are waived if the policyholder becomes totally disabled."
+    - name: "Accelerated Death Benefit"
+      description: "Access a portion of the death benefit if diagnosed with a terminal illness."
+    - name: "Child Term Rider"
+      description: "Provides term coverage for the policyholder's children."
+    - name: "Accidental Death Benefit"
+      description: "Pays an additional benefit if death is caused by an accident."
+
+  top_us_providers:
+    - "Northwestern Mutual"
+    - "New York Life"
+    - "MassMutual"
+    - "State Farm"
+    - "Prudential"
+    - "MetLife"
+    - "Haven Life (by MassMutual)"
+    - "Bestow"
+    - "Ladder"
+
+related_topics:
+  - "whole_life"
+  - "universal_life"
+  - "convertibility"
+  - "riders"
+  - "death_benefit"

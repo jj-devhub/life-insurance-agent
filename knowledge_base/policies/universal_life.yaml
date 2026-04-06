@@ -1,0 +1,112 @@
+# Knowledge Base Entry: Universal Life Insurance
+# git commit: feat(kb): add universal life insurance knowledge
+# Module: knowledge-base/policies
+# Last Updated: 2025-01-15
+
+category: "policy_types"
+topic: "Universal Life Insurance"
+keywords:
+  - "universal life"
+  - "universal life insurance"
+  - "UL"
+  - "flexible premium"
+  - "adjustable life insurance"
+  - "indexed universal life"
+  - "IUL"
+  - "guaranteed universal life"
+  - "GUL"
+
+summary: |
+  Universal life insurance is a type of permanent life insurance that offers
+  flexible premiums, adjustable death benefits, and a cash value component
+  that earns interest. It provides more flexibility than whole life insurance
+  and is popular in the US market.
+
+details:
+  definition: |
+    Universal life (UL) insurance is a permanent life insurance policy that
+    provides lifetime coverage with more flexibility than whole life. Policyholders
+    can adjust their premium payments and death benefit amounts within certain
+    limits. The cash value earns interest based on current market rates or an
+    index, depending on the type of UL policy.
+
+  key_features:
+    - "Flexible premiums — pay more or less within policy limits"
+    - "Adjustable death benefit — increase (with evidence of insurability) or decrease"
+    - "Cash value earns interest (rate depends on UL type)"
+    - "Transparency — cost of insurance and fees are disclosed"
+    - "Lifetime coverage with sufficient funding"
+    - "Cash value can be used to pay premiums"
+
+  types:
+    - name: "Traditional Universal Life"
+      description: "Cash value earns a declared interest rate set by the insurer (typically with a guaranteed minimum of 2-3%)."
+    - name: "Indexed Universal Life (IUL)"
+      description: "Cash value growth is linked to a stock market index (e.g., S&P 500) with a floor (0%) and cap (8-12%). No direct market risk."
+    - name: "Guaranteed Universal Life (GUL)"
+      description: "Minimal cash value, but guarantees coverage to a specific age (e.g., 90, 95, 100, 121) at fixed premiums. Like term-for-life."
+    - name: "Variable Universal Life (VUL)"
+      description: "Cash value is invested in sub-accounts (similar to mutual funds). Higher growth potential but also market risk."
+
+  eligibility:
+    age_range: "18–80 (varies by carrier and UL type)"
+    health_requirements: |
+      Full medical underwriting typically required. Some guaranteed universal life
+      policies offer simplified underwriting for smaller face amounts.
+    factors:
+      - "Age and health status"
+      - "Smoking/tobacco use"
+      - "Coverage amount requested"
+      - "Policy type selected"
+
+  typical_coverage_amounts: "$50,000 – $10,000,000+"
+  typical_premium_range: |
+    Varies widely due to flexible premium structure.
+    GUL: $100–$400/month for a healthy 40-year-old, $500,000 policy.
+    IUL: $300–$800/month for similar coverage with accumulation focus.
+
+  advantages:
+    - "Premium flexibility — adjust payments based on financial situation"
+    - "Death benefit adjustability"
+    - "Cash value growth potential (especially IUL and VUL)"
+    - "Transparency of charges and cost of insurance"
+    - "GUL provides permanent coverage at lower cost than whole life"
+    - "Tax-deferred cash value accumulation"
+    - "IUL provides downside protection with market-linked growth"
+
+  disadvantages:
+    - "Risk of policy lapse if underfunded (insufficient premiums to cover cost of insurance)"
+    - "Cost of insurance increases with age — can become expensive in later years"
+    - "More complex than term or whole life"
+    - "IUL cap rates limit upside potential"
+    - "VUL exposes cash value to market risk — can lose value"
+    - "Surrender charges in early years"
+    - "Requires active monitoring to ensure policy stays in force"
+
+  common_riders:
+    - name: "No-Lapse Guarantee"
+      description: "Guarantees the policy won't lapse as long as minimum premiums are paid, regardless of cash value."
+    - name: "Overloan Protection"
+      description: "Prevents the policy from lapsing due to excessive policy loans."
+    - name: "Waiver of Premium/Cost of Insurance"
+      description: "Waives premium or COI charges during disability."
+    - name: "Accelerated Death Benefit"
+      description: "Access death benefit early for terminal, chronic, or critical illness."
+    - name: "Income Rider"
+      description: "Provides a guaranteed income stream from the policy's cash value."
+
+  top_us_providers:
+    - "Pacific Life"
+    - "Lincoln Financial"
+    - "Nationwide"
+    - "Transamerica"
+    - "John Hancock"
+    - "Securian Financial"
+    - "North American (Sammons Financial)"
+
+related_topics:
+  - "term_life"
+  - "whole_life"
+  - "variable_life"
+  - "cash_value"
+  - "indexed_universal_life"
