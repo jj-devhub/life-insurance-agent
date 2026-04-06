@@ -1,0 +1,98 @@
+# Knowledge Base Entry: Tax Benefits
+# git commit: feat(kb): add tax benefits knowledge
+# Module: knowledge-base/benefits
+# Last Updated: 2025-01-15
+
+category: "benefits"
+topic: "Life Insurance Tax Benefits"
+keywords:
+  - "tax benefits"
+  - "tax free"
+  - "tax deferred"
+  - "estate tax"
+  - "income tax"
+  - "1035 exchange"
+  - "ILIT"
+  - "tax advantages"
+
+summary: |
+  Life insurance offers several tax advantages in the United States including
+  income tax-free death benefits, tax-deferred cash value growth, tax-free
+  policy loans, and estate planning benefits through ILITs.
+
+details:
+  definition: |
+    Life insurance receives favorable tax treatment under the Internal Revenue
+    Code. Understanding these tax benefits helps policyholders make informed
+    decisions about coverage and maximize the financial advantages of their policies.
+
+  tax_benefits:
+    - benefit: "Income Tax-Free Death Benefit"
+      irc_section: "IRC Section 101(a)"
+      description: |
+        Death benefit proceeds are generally received income tax-free by
+        beneficiaries. This is one of the most significant tax advantages
+        of life insurance. Applies to all types of life insurance.
+      exceptions:
+        - "Transfer for value: If a policy is sold or transferred for valuable consideration, the death benefit may be partially taxable."
+        - "Employer-owned policies: Must meet IRS notice and consent requirements or death benefit is taxable."
+
+    - benefit: "Tax-Deferred Cash Value Growth"
+      irc_section: "IRC Section 7702"
+      description: |
+        Cash value in permanent life insurance policies grows tax-deferred.
+        No taxes are owed on the growth as long as it remains inside the policy.
+        This is similar to the tax-deferred growth in retirement accounts.
+
+    - benefit: "Tax-Free Policy Loans"
+      irc_section: "General tax treatment"
+      description: |
+        Loans taken against the cash value of a life insurance policy are
+        generally not considered taxable income, as long as the policy remains
+        in force and doesn't become a Modified Endowment Contract (MEC).
+
+    - benefit: "Tax-Free Withdrawals (Up to Basis)"
+      irc_section: "FIFO basis recovery"
+      description: |
+        Withdrawals from cash value are tax-free up to the policy basis
+        (total premiums paid). Withdrawals above basis are taxed as ordinary income.
+
+    - benefit: "Tax-Free 1035 Exchange"
+      irc_section: "IRC Section 1035"
+      description: |
+        Cash value can be transferred to a new life insurance or annuity
+        policy without triggering a taxable event. Useful for upgrading
+        or changing policies.
+
+    - benefit: "Estate Tax Exclusion via ILIT"
+      irc_section: "IRC Section 2042"
+      description: |
+        An Irrevocable Life Insurance Trust (ILIT) can own the policy,
+        removing the death benefit from the insured's taxable estate.
+        Important for high-net-worth individuals whose estates may exceed
+        the federal estate tax exemption ($13.61 million in 2024).
+
+    - benefit: "Charitable Giving"
+      irc_section: "Various"
+      description: |
+        Naming a charity as beneficiary provides an estate tax deduction.
+        Donating a policy to charity may provide an income tax deduction
+        for the cash surrender value.
+
+  modified_endowment_contract:
+    description: |
+      A Modified Endowment Contract (MEC) is a life insurance policy that
+      has been overfunded relative to its death benefit (fails the 7-pay test).
+      MEC policies lose some tax advantages: withdrawals and loans are taxed
+      on a LIFO (last-in, first-out) basis and may be subject to a 10%
+      penalty if taken before age 59½. The death benefit remains tax-free.
+    seven_pay_test: |
+      A policy becomes a MEC if cumulative premiums paid in the first 7 years
+      exceed the total premiums that would be needed to pay up the policy in 7 years.
+
+related_topics:
+  - "death_benefit"
+  - "cash_value"
+  - "whole_life"
+  - "universal_life"
+  - "estate_planning"
