@@ -1,0 +1,81 @@
+# Knowledge Base Entry: Cash Value
+# git commit: feat(kb): add cash value knowledge
+# Module: knowledge-base/benefits
+# Last Updated: 2025-01-15
+
+category: "benefits"
+topic: "Life Insurance Cash Value"
+keywords:
+  - "cash value"
+  - "savings component"
+  - "policy loan"
+  - "cash surrender value"
+  - "borrow against"
+  - "withdrawal"
+  - "accumulation"
+
+summary: |
+  Cash value is a savings component found in permanent life insurance policies
+  (whole life, universal life, variable life). It grows tax-deferred and can
+  be accessed through policy loans, withdrawals, or surrender.
+
+details:
+  definition: |
+    Cash value is the savings or investment component of a permanent life
+    insurance policy that accumulates over time. A portion of each premium
+    payment goes toward the cost of insurance, and the remainder accumulates
+    as cash value. This component grows tax-deferred and can be accessed
+    by the policyholder during their lifetime.
+
+  which_policies_have_cash_value:
+    - "Whole Life Insurance — guaranteed growth rate"
+    - "Universal Life Insurance — interest-rate based growth"
+    - "Indexed Universal Life — market-index linked growth with floor"
+    - "Variable Life / Variable Universal Life — investment sub-account growth"
+    - "Term Life Insurance — NO cash value (exception: Return of Premium rider)"
+
+  growth_rates_by_type:
+    - type: "Whole Life"
+      rate: "1–3.5% guaranteed + potential dividends"
+      risk: "None — guaranteed by the insurer"
+    - type: "Universal Life"
+      rate: "2–4% declared rate (with guaranteed minimum)"
+      risk: "Low — rate can decrease but not below guaranteed minimum"
+    - type: "Indexed Universal Life"
+      rate: "0–12% (tied to index with floor of 0% and cap of 8–12%)"
+      risk: "Moderate — no negative returns, but capped upside"
+    - type: "Variable Life / VUL"
+      rate: "Varies based on sub-account performance"
+      risk: "High — cash value can decrease"
+
+  access_methods:
+    - method: "Policy Loans"
+      description: |
+        Borrow against the cash value at interest rates typically 5–8%.
+        Loans don't require credit checks or approval. Unpaid loans reduce
+        the death benefit. Generally tax-free if the policy stays in force.
+    - method: "Partial Withdrawals"
+      description: |
+        Withdraw funds from cash value. Withdrawals up to basis (total premiums paid)
+        are tax-free. Withdrawals reduce the cash value and may reduce the death benefit.
+    - method: "Full Surrender"
+      description: |
+        Cancel the policy and receive the cash surrender value (cash value minus
+        surrender charges). Any gains above basis are taxable as ordinary income.
+        Surrender charges are highest in early years (typically years 1–15).
+    - method: "1035 Exchange"
+      description: |
+        Transfer cash value to a new life insurance or annuity policy tax-free.
+        Named after IRC Section 1035. Useful for upgrading to a better policy.
+
+  cash_value_timeline: |
+    Cash value accumulation is slow in the early years because most of the
+    premium goes toward the cost of insurance and policy charges. Meaningful
+    cash value typically doesn't build until years 7–10+. This is why
+    surrendering a permanent policy early results in significant losses.
+
+related_topics:
+  - "whole_life"
+  - "universal_life"
+  - "tax_benefits"
+  - "riders"
