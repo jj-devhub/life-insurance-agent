@@ -1,0 +1,79 @@
+# Knowledge Base Entry: Death Benefit
+# git commit: feat(kb): add death benefit knowledge
+# Module: knowledge-base/benefits
+# Last Updated: 2025-01-15
+
+category: "benefits"
+topic: "Life Insurance Death Benefit"
+keywords:
+  - "death benefit"
+  - "payout"
+  - "face amount"
+  - "how much"
+  - "beneficiary payout"
+  - "tax free"
+  - "coverage amount"
+
+summary: |
+  The death benefit is the amount of money paid by the insurance company to
+  the designated beneficiaries upon the death of the insured person. It is
+  generally received income tax-free in the United States under IRC Section 101(a).
+
+details:
+  definition: |
+    The death benefit (also called the face amount or face value) is the
+    primary purpose of a life insurance policy. It is the sum of money that
+    the insurance company contractually agrees to pay to the named
+    beneficiaries when the insured person dies, provided the policy is
+    in force at the time of death.
+
+  key_facts:
+    - "Death benefits are generally income tax-free to beneficiaries under IRC Section 101(a)"
+    - "The face amount is chosen at the time of application"
+    - "Some policies have increasing or decreasing death benefits"
+    - "Death benefits can be paid as lump sum, installments, or annuity"
+    - "Beneficiaries can be individuals, trusts, charities, or estates"
+    - "Multiple beneficiaries can be named with percentage allocations"
+
+  how_much_coverage:
+    rules_of_thumb:
+      - name: "Income Replacement (10x Rule)"
+        description: "Coverage should be 10–15 times the insured's annual income."
+      - name: "DIME Method"
+        description: "Debt + Income replacement + Mortgage + Education costs for children."
+      - name: "Human Life Value"
+        description: "Present value of future earnings potential over working years."
+    factors_to_consider:
+      - "Outstanding debts (mortgage, car loans, student loans, credit cards)"
+      - "Number and age of dependents"
+      - "Spouse's income and earning potential"
+      - "Children's education costs ($100,000–$300,000+ per child for college)"
+      - "Final expenses (funeral, burial: $7,000–$15,000 average)"
+      - "Emergency fund needs"
+      - "Existing savings, investments, and other insurance"
+
+  tax_treatment:
+    income_tax: "Death benefit proceeds are generally income tax-free to beneficiaries."
+    estate_tax: |
+      Death benefit may be included in the insured's taxable estate if the insured
+      owned the policy at death. For 2024, federal estate tax exemption is $13.61 million
+      per person. An Irrevocable Life Insurance Trust (ILIT) can remove the death
+      benefit from the estate.
+    interest: "Any interest earned on death benefit proceeds (e.g., installment payments) IS taxable income."
+
+  beneficiary_types:
+    - type: "Primary Beneficiary"
+      description: "First in line to receive the death benefit."
+    - type: "Contingent Beneficiary"
+      description: "Receives the benefit if the primary beneficiary has predeceased the insured."
+    - type: "Revocable Beneficiary"
+      description: "Can be changed by the policyholder at any time without consent."
+    - type: "Irrevocable Beneficiary"
+      description: "Cannot be changed without the beneficiary's written consent."
+
+related_topics:
+  - "term_life"
+  - "whole_life"
+  - "tax_benefits"
+  - "filing_process"
+  - "riders"
