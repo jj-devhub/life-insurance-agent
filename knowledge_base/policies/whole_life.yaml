@@ -1,0 +1,128 @@
+# Knowledge Base Entry: Whole Life Insurance
+# git commit: feat(kb): add whole life insurance knowledge
+# Module: knowledge-base/policies
+# Last Updated: 2025-01-15
+
+category: "policy_types"
+topic: "Whole Life Insurance"
+keywords:
+  - "whole life"
+  - "whole life insurance"
+  - "permanent life insurance"
+  - "cash value"
+  - "guaranteed coverage"
+  - "lifetime coverage"
+  - "participating policy"
+  - "dividends"
+
+summary: |
+  Whole life insurance provides lifelong coverage with guaranteed death benefits,
+  fixed premiums, and a cash value component that grows at a guaranteed rate.
+  It is the most traditional form of permanent life insurance in the United States.
+
+details:
+  definition: |
+    Whole life insurance is a type of permanent life insurance that provides
+    coverage for the insured's entire lifetime, as long as premiums are paid.
+    It combines a death benefit with a savings component called "cash value"
+    that grows at a guaranteed rate set by the insurance company. Premiums
+    are fixed and never increase.
+
+  key_features:
+    - "Lifetime coverage — never expires as long as premiums are paid"
+    - "Fixed, level premiums that never increase"
+    - "Guaranteed cash value growth at a fixed rate"
+    - "Guaranteed death benefit amount"
+    - "May earn dividends (participating policies from mutual companies)"
+    - "Cash value grows tax-deferred"
+    - "Can borrow against cash value (policy loans)"
+
+  types:
+    - name: "Traditional Whole Life"
+      description: "Standard whole life with fixed premiums paid throughout the insured's lifetime."
+    - name: "Limited-Pay Whole Life"
+      description: "Premiums are paid for a set period (e.g., 10, 20 years or to age 65), then coverage continues premium-free."
+    - name: "Single Premium Whole Life (SPL)"
+      description: "Entire premium is paid upfront in one lump sum. Immediate cash value."
+    - name: "Participating Whole Life"
+      description: "Eligible to receive dividends from the insurance company. Offered by mutual companies."
+    - name: "Non-Participating Whole Life"
+      description: "Does not pay dividends. Offered by stock insurance companies. Usually lower premiums."
+
+  eligibility:
+    age_range: "0–85 (varies by carrier; juvenile policies available for children)"
+    health_requirements: |
+      Typically requires a full medical underwriting process including a medical exam,
+      blood and urine tests, and review of medical records (APS). Simplified issue
+      and guaranteed issue options exist with higher premiums and lower face amounts.
+    factors:
+      - "Age at application"
+      - "Health status and medical history"
+      - "Smoking/tobacco use"
+      - "Family history of health conditions"
+      - "Build (height and weight)"
+
+  typical_coverage_amounts: "$25,000 – $5,000,000+"
+  typical_premium_range: |
+    $200–$600/month for a healthy 30-year-old, $500,000 policy.
+    Whole life premiums are 5–15x higher than equivalent term life coverage.
+
+  cash_value:
+    description: |
+      The cash value is a savings component that grows at a guaranteed minimum rate
+      set by the insurance company. It grows tax-deferred and can be accessed via
+      policy loans or withdrawals.
+    growth_rate: "Typically 1–3.5% guaranteed, potentially higher with dividends"
+    access_methods:
+      - "Policy loans (borrow against cash value, usually at 5–8% interest)"
+      - "Partial withdrawals (may reduce death benefit)"
+      - "Full surrender (cancel policy and receive cash surrender value)"
+    tax_treatment: |
+      Cash value grows tax-deferred. Policy loans are generally tax-free.
+      Withdrawals up to basis (total premiums paid) are tax-free.
+      Surrendering the policy may trigger taxes on gains above basis.
+
+  advantages:
+    - "Lifetime guaranteed coverage — never expires"
+    - "Fixed premiums — budgeting certainty"
+    - "Guaranteed cash value growth — safe, predictable savings"
+    - "Tax-deferred cash value growth"
+    - "Dividends from mutual companies (not guaranteed but historically reliable)"
+    - "Estate planning tool — provides liquidity for estate taxes"
+    - "Forced savings mechanism"
+
+  disadvantages:
+    - "Much higher premiums than term life (5–15x more)"
+    - "Low rate of return on cash value compared to other investments"
+    - "Complexity — harder to understand than term life"
+    - "Limited flexibility — premiums and death benefit are fixed"
+    - "Surrender charges in early years if policy is cancelled"
+    - "Policy loans reduce death benefit if not repaid"
+
+  common_riders:
+    - name: "Paid-Up Additions (PUA)"
+      description: "Use dividends to purchase additional paid-up insurance, increasing cash value and death benefit."
+    - name: "Waiver of Premium"
+      description: "Waives premiums if the policyholder becomes disabled."
+    - name: "Guaranteed Insurability"
+      description: "Option to purchase additional coverage at specified dates without evidence of insurability."
+    - name: "Accelerated Death Benefit"
+      description: "Access a portion of the death benefit if diagnosed with a terminal or chronic illness."
+    - name: "Long-Term Care Rider"
+      description: "Allows access to death benefit for qualifying long-term care expenses."
+
+  top_us_providers:
+    - "Northwestern Mutual"
+    - "New York Life"
+    - "MassMutual"
+    - "Guardian Life"
+    - "Penn Mutual"
+    - "State Farm"
+
+related_topics:
+  - "term_life"
+  - "universal_life"
+  - "cash_value"
+  - "dividends"
+  - "riders"
+  - "estate_planning"

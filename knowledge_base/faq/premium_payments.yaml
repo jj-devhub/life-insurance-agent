@@ -1,0 +1,77 @@
+# Knowledge Base Entry: Premium Payments
+# git commit: feat(kb): add premium payments FAQ
+# Module: knowledge-base/faq
+# Last Updated: 2025-01-15
+
+category: "faq"
+topic: "Life Insurance Premium Payments"
+keywords:
+  - "premium"
+  - "premium payment"
+  - "how to pay"
+  - "payment methods"
+  - "grace period"
+  - "missed payment"
+  - "premium increase"
+  - "payment frequency"
+  - "auto pay"
+
+summary: |
+  Life insurance premiums can be paid monthly, quarterly, semi-annually, or
+  annually. Payment methods include bank draft, credit card, and check.
+  Most policies have a 30–31 day grace period for missed payments.
+
+details:
+  definition: |
+    A premium is the amount you pay the insurance company to keep your life
+    insurance policy active. Premiums are determined by factors including age,
+    health, coverage amount, policy type, and term length.
+
+  payment_frequencies:
+    - frequency: "Annual"
+      description: "One payment per year. Usually the cheapest option (no modal loading fee)."
+    - frequency: "Semi-Annual"
+      description: "Two payments per year. Small surcharge (typically 2–4% annually)."
+    - frequency: "Quarterly"
+      description: "Four payments per year. Moderate surcharge (typically 4–6% annually)."
+    - frequency: "Monthly"
+      description: "Twelve payments per year. Highest surcharge (typically 6–8% annually). Most common choice."
+
+  payment_methods:
+    - "Electronic Funds Transfer (EFT) / Bank draft — most common, often discounted"
+    - "Credit card — some insurers accept, no discount"
+    - "Check by mail — accepted but least convenient"
+    - "Online payment portal — most insurers offer this"
+    - "Payroll deduction — for employer-sponsored group policies"
+    - "Automatic premium loan — for permanent policies, premium paid from cash value"
+
+  grace_period: |
+    Most life insurance policies include a 30–31 day grace period after the
+    premium due date. During this period, the policy remains fully in force
+    even if the premium is unpaid. If the insured dies during the grace
+    period, the death benefit is paid minus the unpaid premium.
+
+  missed_payment_consequences:
+    term_life: |
+      After the grace period expires, the policy lapses and coverage ends.
+      Most term policies can be reinstated within 3–5 years if the
+      policyholder is still insurable and pays all back premiums with interest.
+    permanent_life: |
+      The insurer may use the cash value to pay premiums automatically
+      (Automatic Premium Loan provision). If cash value is exhausted, the
+      policy lapses. Options after lapse include: reinstatement (with back
+      premiums and evidence of insurability), reduced paid-up insurance,
+      or extended term insurance.
+
+  tips:
+    - "Set up automatic payments (EFT) to avoid missed payments"
+    - "Pay annually if possible — saves 6–8% compared to monthly"
+    - "Keep the insurance company updated with your current address and banking info"
+    - "If you're having trouble paying, contact your insurer to discuss options before the grace period ends"
+    - "For permanent policies, monitor cash value to ensure it can cover premiums if needed"
+
+related_topics:
+  - "general_faq"
+  - "policy_changes"
+  - "term_life"
+  - "whole_life"

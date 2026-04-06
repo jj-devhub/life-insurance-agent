@@ -1,0 +1,111 @@
+# Knowledge Base Entry: Policy Riders
+# git commit: feat(kb): add policy riders knowledge
+# Module: knowledge-base/benefits
+# Last Updated: 2025-01-15
+
+category: "benefits"
+topic: "Life Insurance Policy Riders"
+keywords:
+  - "riders"
+  - "add-on"
+  - "additional coverage"
+  - "waiver of premium"
+  - "accelerated death benefit"
+  - "long term care rider"
+  - "child rider"
+
+summary: |
+  Riders are optional add-ons to a life insurance policy that provide additional
+  benefits or customize coverage. Common riders include waiver of premium,
+  accelerated death benefit, child term rider, and long-term care rider.
+
+details:
+  definition: |
+    A rider (also called an endorsement) is an amendment to a life insurance
+    policy that adds, modifies, or excludes coverage. Riders allow policyholders
+    to customize their policy to fit specific needs. Most riders require an
+    additional premium, though some are included at no extra cost.
+
+  common_riders:
+    - name: "Waiver of Premium"
+      cost: "Small additional premium"
+      description: |
+        Waives all premium payments if the policyholder becomes totally disabled
+        and unable to work. The policy remains in full force during the disability.
+        Typically requires disability lasting 6+ months and usually available for
+        applicants under age 60.
+      availability: "All policy types"
+
+    - name: "Accelerated Death Benefit (ADB)"
+      cost: "Often included free of charge"
+      description: |
+        Allows the policyholder to access a portion (typically 25–75%) of the
+        death benefit if diagnosed with a terminal illness with a life expectancy
+        of 12–24 months. Some versions also cover chronic or critical illness.
+        The amount received is usually tax-free.
+      availability: "All policy types"
+
+    - name: "Child Term Rider"
+      cost: "$5–$10/month for all children combined"
+      description: |
+        Provides level term life insurance coverage for all of the policyholder's
+        children. Coverage typically $10,000–$25,000 per child. Covers all
+        current and future children. Children can convert to their own permanent
+        policy at age 18–25 without medical exam.
+      availability: "Term and permanent policies"
+
+    - name: "Guaranteed Insurability Rider"
+      cost: "Moderate additional premium"
+      description: |
+        Allows the policyholder to purchase additional coverage at specified
+        future dates (e.g., every 3 years or at life events like marriage, birth)
+        without proving insurability. Valuable if health changes in the future.
+      availability: "Permanent policies"
+
+    - name: "Return of Premium (ROP)"
+      cost: "Significant — increases term premiums by 30–50%"
+      description: |
+        If the policyholder outlives the term of a term life policy, all premiums
+        paid are refunded. Combines insurance protection with a savings-like feature.
+        The refund is generally tax-free as a return of basis.
+      availability: "Term life policies"
+
+    - name: "Accidental Death Benefit (ADB / Double Indemnity)"
+      cost: "Small additional premium"
+      description: |
+        Pays an additional death benefit (usually equal to the face amount) if
+        the insured dies as the result of a covered accident. Effectively doubles
+        the payout for accidental death.
+      availability: "All policy types"
+
+    - name: "Long-Term Care (LTC) Rider"
+      cost: "Moderate to significant additional premium"
+      description: |
+        Allows the policyholder to use a portion of the death benefit to pay for
+        qualifying long-term care expenses (nursing home, assisted living, home
+        health care). Reduces the death benefit dollar-for-dollar.
+      availability: "Permanent policies (especially UL and whole life)"
+
+    - name: "Paid-Up Additions (PUA) Rider"
+      cost: "Additional premium allocated to paid-up insurance"
+      description: |
+        Available on participating whole life policies. Allows the policyholder
+        to purchase additional paid-up insurance using dividends or additional
+        premium payments. Increases both cash value and death benefit.
+      availability: "Participating whole life"
+
+    - name: "Term Conversion Rider"
+      cost: "Usually included at no extra cost"
+      description: |
+        Allows the policyholder to convert a term life policy to a permanent
+        policy without a new medical exam. Critical for maintaining insurability
+        if health changes. Conversion typically must be done before a specified
+        age or end of term.
+      availability: "Term life policies"
+
+related_topics:
+  - "term_life"
+  - "whole_life"
+  - "universal_life"
+  - "death_benefit"
+  - "cash_value"

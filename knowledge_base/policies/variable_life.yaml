@@ -1,0 +1,98 @@
+# Knowledge Base Entry: Variable Life Insurance
+# git commit: feat(kb): add variable life insurance knowledge
+# Module: knowledge-base/policies
+# Last Updated: 2025-01-15
+
+category: "policy_types"
+topic: "Variable Life Insurance"
+keywords:
+  - "variable life"
+  - "variable life insurance"
+  - "VL"
+  - "investment life insurance"
+  - "sub-accounts"
+  - "securities-based life insurance"
+
+summary: |
+  Variable life insurance is a permanent life insurance policy where the
+  cash value is invested in sub-accounts similar to mutual funds. It offers
+  the highest growth potential but also carries investment risk. It is
+  regulated as a security in the United States.
+
+details:
+  definition: |
+    Variable life insurance is a form of permanent life insurance where the
+    policyholder can allocate the cash value among various investment
+    sub-accounts (stocks, bonds, money market funds). The cash value and
+    sometimes the death benefit fluctuate based on investment performance.
+    Because it involves securities, it is regulated by both state insurance
+    departments and the SEC, and must be sold by licensed securities representatives.
+
+  key_features:
+    - "Cash value invested in sub-accounts (stock, bond, money market funds)"
+    - "Investment risk borne by policyholder — cash value can increase or decrease"
+    - "Fixed premiums (unlike VUL which has flexible premiums)"
+    - "Death benefit has a guaranteed minimum, but can increase with investment gains"
+    - "Regulated as a security — sold with a prospectus"
+    - "Requires Series 6 or Series 7 license to sell"
+
+  types:
+    - name: "Variable Life (VL)"
+      description: "Fixed premiums with variable cash value and death benefit based on investment performance."
+    - name: "Variable Universal Life (VUL)"
+      description: "Combines variable investments with universal life's flexible premiums. Most popular variable product."
+
+  eligibility:
+    age_range: "18–75 (varies by carrier)"
+    health_requirements: |
+      Full medical underwriting required. Given the investment component,
+      suitability analysis is also required to ensure the product is
+      appropriate for the applicant's financial situation and risk tolerance.
+    factors:
+      - "Age and health"
+      - "Financial suitability"
+      - "Risk tolerance"
+      - "Investment experience"
+
+  typical_coverage_amounts: "$100,000 – $5,000,000+"
+  typical_premium_range: |
+    $300–$1,000+/month for a healthy 35-year-old, $500,000 policy.
+    Premiums are generally higher than UL but include investment allocation.
+
+  advantages:
+    - "Highest cash value growth potential among life insurance products"
+    - "Control over investment allocation"
+    - "Tax-deferred investment growth"
+    - "Guaranteed minimum death benefit"
+    - "Can serve as both insurance and investment vehicle"
+    - "Sub-account options allow diversification"
+
+  disadvantages:
+    - "Investment risk — cash value can lose money"
+    - "Higher fees than other life insurance types (management fees, mortality charges)"
+    - "Complex — requires understanding of investments and insurance"
+    - "Requires a prospectus — heavily regulated"
+    - "Poor investment performance can jeopardize coverage"
+    - "Not suitable for conservative investors or those seeking simplicity"
+    - "Surrender charges in early years"
+
+  common_riders:
+    - name: "Guaranteed Minimum Death Benefit"
+      description: "Ensures the death benefit never falls below a specified amount regardless of investment performance."
+    - name: "Waiver of Premium"
+      description: "Waives premiums during periods of disability."
+    - name: "Accelerated Death Benefit"
+      description: "Early access to death benefit for terminal illness."
+
+  top_us_providers:
+    - "Prudential"
+    - "Lincoln Financial"
+    - "AXA (Equitable)"
+    - "Pacific Life"
+    - "MetLife"
+
+related_topics:
+  - "whole_life"
+  - "universal_life"
+  - "cash_value"
+  - "investment_risk"

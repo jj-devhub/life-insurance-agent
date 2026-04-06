@@ -1,0 +1,40 @@
+# Life Insurance Support Assistant - Dependencies
+# git commit: feat(deps): add project dependencies
+# Module: project-foundation
+
+# Core AI/LLM
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-openai>=0.2.0
+langchain-ollama>=0.2.0
+openai>=1.50.0
+
+# Memory - Mem0 (open-source, self-hosted)
+mem0ai>=0.1.0
+
+# Vector Store - Qdrant (local mode)
+qdrant-client>=1.9.0
+langchain-qdrant>=0.1.0
+
+# API Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# CLI Interface
+rich>=13.0.0
+typer>=0.12.0
+
+# Knowledge Base
+pyyaml>=6.0
+
+# Utilities
+python-dotenv>=1.0.0
+httpx>=0.27.0
+
+# Dev/Test (install with: pip install -r requirements-dev.txt)
+# pytest>=8.0.0
+# pytest-asyncio>=0.23.0
+# pytest-cov>=5.0.0
+# ruff>=0.6.0

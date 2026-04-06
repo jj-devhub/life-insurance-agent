@@ -1,0 +1,110 @@
+# Knowledge Base Entry: Claims Filing Process
+# git commit: feat(kb): add claims filing process knowledge
+# Module: knowledge-base/claims
+# Last Updated: 2025-01-15
+
+category: "claims"
+topic: "Life Insurance Claims Filing Process"
+keywords:
+  - "file a claim"
+  - "claims process"
+  - "how to file"
+  - "submit claim"
+  - "death claim"
+  - "claims filing"
+  - "beneficiary claim"
+
+summary: |
+  Filing a life insurance claim involves notifying the insurance company of the
+  insured's death, submitting required documentation, and awaiting claim review
+  and payment. Most claims in the US are processed within 30–60 days.
+
+details:
+  definition: |
+    A life insurance claim is a formal request made by a beneficiary to the
+    insurance company to receive the death benefit after the insured person
+    passes away. The process involves documentation, verification, and
+    disbursement of the benefit amount.
+
+  step_by_step_process:
+    - step: 1
+      title: "Obtain the Death Certificate"
+      description: |
+        Order multiple certified copies of the death certificate from the
+        vital records office in the state where the death occurred. Most
+        insurers require an original or certified copy. Order at least 5–10
+        copies as other institutions will also need them.
+
+    - step: 2
+      title: "Locate the Life Insurance Policy"
+      description: |
+        Find the original policy document. If you cannot locate it, contact
+        the insurance company with the insured's name, Social Security number,
+        and date of birth. You can also search the NAIC Life Insurance Policy
+        Locator Service (free) at https://eapps.naic.org/life-policy-locator.
+
+    - step: 3
+      title: "Contact the Insurance Company"
+      description: |
+        Call the insurer's claims department to initiate the process. They will
+        provide claim forms and explain their specific requirements. Many
+        large insurers now allow online claim initiation.
+
+    - step: 4
+      title: "Complete the Claim Form"
+      description: |
+        Fill out the claimant's statement/claim form provided by the insurer.
+        Required information typically includes: claimant's identity, relationship
+        to insured, cause and date of death, and payment preference.
+
+    - step: 5
+      title: "Submit Required Documents"
+      description: |
+        Send the completed claim form along with all required documents (see
+        required_documents topic). Submit via mail, fax, or the insurer's
+        online portal if available.
+
+    - step: 6
+      title: "Claim Review and Verification"
+      description: |
+        The insurance company reviews the claim, verifies the death, checks
+        the policy status, and confirms the beneficiary designation. This
+        typically takes 30–60 days. The contestability period (first 2 years)
+        may involve additional investigation.
+
+    - step: 7
+      title: "Receive Payment"
+      description: |
+        Once approved, the beneficiary chooses a payment option: lump sum,
+        annuity, installments, or retained asset account. Lump sum is the
+        most common choice. Death benefits are generally income tax-free.
+
+  payment_options:
+    - name: "Lump Sum"
+      description: "Entire death benefit paid at once. Most common choice. Tax-free."
+    - name: "Installments"
+      description: "Death benefit paid in equal installments over a chosen period. Interest on unpaid balance is taxable."
+    - name: "Annuity"
+      description: "Death benefit converted to an annuity providing regular payments for life or a set period."
+    - name: "Retained Asset Account"
+      description: "Insurer holds the funds in an interest-bearing account. Beneficiary can withdraw anytime."
+
+  timeline: |
+    Most US states require insurance companies to pay claims within 30–60 days
+    after receiving complete documentation. Some states specify 30 days.
+    Delays can occur due to: contestability investigations, missing documents,
+    multiple beneficiary disputes, or suspicious circumstances.
+
+  common_reasons_for_denial:
+    - "Policy lapsed due to non-payment of premiums"
+    - "Death occurred during the contestability period (first 2 years) with material misrepresentation on application"
+    - "Death caused by excluded peril (e.g., certain suicide clauses within first 2 years)"
+    - "Fraud or material misrepresentation on the application"
+    - "Beneficiary designation issues or disputes"
+    - "Death not covered under policy terms (e.g., war, terrorism exclusions)"
+
+related_topics:
+  - "required_documents"
+  - "claim_status"
+  - "death_benefit"
+  - "beneficiary"

@@ -1,0 +1,89 @@
+# Knowledge Base Entry: Policy Changes
+# git commit: feat(kb): add policy changes FAQ
+# Module: knowledge-base/faq
+# Last Updated: 2025-01-15
+
+category: "faq"
+topic: "Life Insurance Policy Changes"
+keywords:
+  - "policy changes"
+  - "change beneficiary"
+  - "increase coverage"
+  - "decrease coverage"
+  - "cancel policy"
+  - "surrender"
+  - "convert"
+  - "reinstate"
+  - "change policy"
+  - "update policy"
+
+summary: |
+  Life insurance policies can be modified in several ways including changing
+  beneficiaries, adjusting coverage amounts, converting term to permanent,
+  surrendering, or reinstating a lapsed policy.
+
+details:
+  definition: |
+    Most life insurance policies allow certain changes during the life of the
+    policy. The available changes depend on the policy type and specific
+    contract provisions. Some changes require evidence of insurability.
+
+  common_changes:
+    - change: "Change Beneficiary"
+      process: "Submit a beneficiary change form to the insurance company."
+      requirements: "No underwriting needed. Irrevocable beneficiaries require their consent."
+      cost: "Free"
+
+    - change: "Increase Coverage Amount"
+      process: "Apply for a policy amendment or purchase a new policy."
+      requirements: "Usually requires new underwriting (medical exam, health questions)."
+      cost: "Higher premiums based on current age and health."
+
+    - change: "Decrease Coverage Amount"
+      process: "Contact the insurance company to request a reduction."
+      requirements: "No underwriting needed. Cannot reduce below minimum face amount."
+      cost: "Premiums decrease proportionally."
+
+    - change: "Convert Term to Permanent"
+      process: "Exercise the conversion privilege in the term policy."
+      requirements: "No new underwriting or medical exam required. Must convert before the conversion deadline."
+      cost: "Premiums increase to permanent policy rates based on attained age."
+
+    - change: "Add or Remove Riders"
+      process: "Contact the insurance company. Some riders can be added after issue."
+      requirements: "Adding riders may require evidence of insurability."
+      cost: "Adding riders increases premiums; removing riders decreases premiums."
+
+    - change: "Change Payment Frequency"
+      process: "Contact the insurer or update through the online portal."
+      requirements: "No underwriting needed."
+      cost: "Annual payments are cheapest; monthly payments have a modal loading fee."
+
+    - change: "Change Ownership (Assignment)"
+      process: "Complete an assignment or ownership transfer form."
+      requirements: "Current owner must sign. May have tax implications."
+      cost: "Usually free, but may have tax consequences (gift tax, transfer for value)."
+
+    - change: "Cancel / Surrender Policy"
+      process: "Contact the insurer. For permanent policies, you'll receive the cash surrender value."
+      requirements: "No requirements. Free-look period (10–30 days after purchase) allows full refund."
+      cost: "Surrender charges may apply for permanent policies in early years."
+
+    - change: "Reinstate Lapsed Policy"
+      process: "Apply for reinstatement within the reinstatement period (typically 3–5 years)."
+      requirements: "Evidence of insurability (health questions or exam), payment of all overdue premiums with interest."
+      cost: "Back premiums plus interest. May be re-underwritten at new health classification."
+
+  important_notes:
+    - "Always get confirmation in writing for any policy changes"
+    - "Review your policy annually and after major life events"
+    - "The free-look period (10–30 days) allows cancellation with full premium refund for new policies"
+    - "Document the reason for any changes for your personal records"
+    - "Consult your agent or financial advisor before making major changes"
+
+related_topics:
+  - "premium_payments"
+  - "term_life"
+  - "whole_life"
+  - "riders"
+  - "cash_value"
